@@ -31,7 +31,7 @@ Tools and Environment used:-
 
     • Front End: HTML, CSS, Javascript, Bootstrap
 
-    • Back End: PHP & MySQL
+    • Back End: PHP and MySQL
 
 
 ```
@@ -59,13 +59,15 @@ Tools and Environment used:-
 
                      In this project the farmers can sell their products online and the buyer can purchase
 
-the seeds and products through online. Buyer can send purchase request to check the quality of the product.
+the seeds and products through online. Buyer can send purchase request to check the quality of the 
 
-The Payments will be received from the seller once the product delivered to the seller. The customers can
+product. The Payments will be received from the seller once the product delivered to the seller. The 
 
-buy products and equipment’s through the same platform. The article and blogs section helps farmers to
+customers can buy products and equipment’s through the same platform. The article and blogs section 
 
-improve their productivity and profitability. Administrator can view and print all kinds of reports.
+helps farmers to improve their productivity and profitability. Administrator can view and print all kinds
+
+of reports.
 
 
 
