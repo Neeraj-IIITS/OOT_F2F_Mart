@@ -57,13 +57,13 @@ Tools and Environment used:-
 
  # Problem Definition:-
 
-                     In this project the farmers can sell their products online and the buyer can purchase 
+                     In this project the farmers can sell their products online and the buyer can purchase
 
-the seeds and products through online. Buyer can send purchase request to check the quality of the product. 
+the seeds and products through online. Buyer can send purchase request to check the quality of the product.
 
-The Payments will be received from the seller once the product delivered to the seller. The customers can 
+The Payments will be received from the seller once the product delivered to the seller. The customers can
 
-buy products and equipment’s through the same platform. The article and blogs section helps farmers to 
+buy products and equipment’s through the same platform. The article and blogs section helps farmers to
 
 improve their productivity and profitability. Administrator can view and print all kinds of reports.
 
@@ -133,9 +133,9 @@ products online.
 
 wholesaler/retailer/customer. Our administratior will decide the final price of each product and produce 
 
-after analysing the price given by the farmer. The paymentwill be received from the wholesaler/retailer/customer 
- 
-once the product delivered to them.
+after analysing the price given by the farmer. The paymentwill be received from the 
+
+wholesaler/retailer/customer once the product delivered to them.
 
 
           • There are 3 types of users: Customers, farmers, and administrator. The login ID and password 
