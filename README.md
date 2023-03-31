@@ -1,16 +1,9 @@
-# KCPD_DevHeat_2022
-
-## Project Theme
-
-```bash
-Back To Roots. ( Agriculture)
-
-```
+# OOT_F2F_Mart
 
 ## Project Title
 
 ```bash
-F2FMART ( Farm To Friend )
+F2F_MART ( Farm To Friend )
 ```
 
 ## Project Description
@@ -64,15 +57,16 @@ Tools and Environment used:-
 
  # Problem Definition:-
 
-                     In this project the farmers can sell their products online and the buyer can purchase the seeds and 
+                     In this project the farmers can sell their products online and the buyer can purchase 
 
-products through online. Buyer can send purchase request to check the quality of the product. The Payments will be received 
+the seeds and products through online. Buyer can send purchase request to check the quality of the product. 
 
-from the seller once the product delivered to the seller. The customers can buy products and equipment’s through the same 
+The Payments will be received from the seller once the product delivered to the seller. The customers can 
 
-platform. The article and blogs section helps farmers to improve their productivity and profitability. Administrator can view
+buy products and equipment’s through the same platform. The article and blogs section helps farmers to 
 
- and print all kinds of reports.
+improve their productivity and profitability. Administrator can view and print all kinds of reports.
+
 
 
 ```
@@ -81,27 +75,31 @@ platform. The article and blogs section helps farmers to improve their productiv
 
  # Detailed Functional and Technical Requirement Specification:-
 
-                                                                 “F2FMART” is a website for online agricultural trade. This
+                                                                 “F2FMART” is a website for online 
 
-website helps farmers by providing them a large market online to sale their produce. They can be updated with the recent 
+agricultural trade. This website helps farmers by providing them a large market online to sale their 
 
-agriculture developments through the latest news and blogs which are available in the platform. The whole sellers and the 
+produce. They can be updated with the recent agriculture developments through the latest news and blogs 
 
-retailers are also benefitted as they can buy from a larger market. They can shop for farming equipments easily. The 
+which are available in the platform. The whole sellers and the retailers are also benefitted as they 
 
-consumers can also buy fresh produce directly from the farmer.
+can buy from a larger market. They can shop for farming equipments easily. The consumers can also buy 
+
+fresh produce directly from the farmer.
 
 
-                                                               To provide technology and services to the farmers, and merchants. 
+                                                               To provide technology and services to the 
 
-Thus, helping them to expand their business and provide them with a wider marker. Hence, improve the present farming process and 
+farmers, and merchants. Thus, helping them to expand their business and provide them with a wider marker. 
 
-to provide knowledge about recent agricultural issues.
+Hence, improve the present farming process and to provide knowledge about recent agricultural issues.
 
                                                           
-                                                              To provide a helping hand to the farmers in improving their lives 
+                                                              To provide a helping hand to the farmers in 
                                                               
-through the medium of technology. Thereby, improving the agricultural sector in the Indian economy. 
+improving their lives through the medium of technology. Thereby, improving the agricultural sector in the 
+
+Indian economy. 
 
 
 ```
@@ -126,14 +124,18 @@ through the medium of technology. Thereby, improving the agricultural sector in 
     Our Website has following features:
 
 
-          • The farmers can sell their production online and the buyer can purchase various agricultural products online. 
+          • The farmers can sell their production online and the buyer can purchase various agricultural 
+          
+products online. 
 
 
-          • After collecting all the farm produced from the farmers, it should by sold to the wholesaler/retailer/customer. Our 
+          • After collecting all the farm produced from the farmers, it should by sold to the 
 
-administratior will decide the final price of each product and produce after analysing the price given by the farmer. The payment
+wholesaler/retailer/customer. Our administratior will decide the final price of each product and produce 
 
- will be received from the wholesaler/retailer/customer once the product delivered to them.
+after analysing the price given by the farmer. The paymentwill be received from the wholesaler/retailer/customer 
+ 
+once the product delivered to them.
 
 
           • There are 3 types of users: Customers, farmers, and administrator. The login ID and password 
